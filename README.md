@@ -28,11 +28,4 @@
 * [###](http://###/)
 * [###](http://###/)
 
-##关于我们
 
-```javascript
-var ihubo = {
-  nickName  : "业余无线电爱好者",
-  site : "http://www.439110.cn"
-}
-```
